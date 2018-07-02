@@ -23,7 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "dist/qs-angular2-busy/styles/busy.css"
             ],
             "scripts": []
           },

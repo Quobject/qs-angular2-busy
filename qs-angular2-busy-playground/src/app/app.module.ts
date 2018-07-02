@@ -1,8 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { AppComponent } from './app.component';
-import { QsAngular2BusyModule } from 'qs-angular2-busy';
+import { QsAngular2BusyModule, BusyConfig } from 'qs-angular2-busy';
 
 @NgModule({
   declarations: [
@@ -10,7 +11,9 @@ import { QsAngular2BusyModule } from 'qs-angular2-busy';
   ],
   imports: [
     BrowserModule,
-    QsAngular2BusyModule
+    QsAngular2BusyModule,
+    QsAngular2BusyModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

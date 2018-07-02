@@ -1,6 +1,6 @@
 {
   "name": "qs-angular2-busy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Matthias Ludwig <mludwig@quobject.io>",
   "license": "MIT",
   "repository": {
@@ -16,6 +16,7 @@
     "ng2-busy"
   ],
   "peerDependencies": {
+    "@angular/animations": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
   }
