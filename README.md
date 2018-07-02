@@ -1,4 +1,4 @@
-# Angular2-Busy
+# qs-angular2-busy
 
 from https://github.com/devyumao/angular2-busy
 
