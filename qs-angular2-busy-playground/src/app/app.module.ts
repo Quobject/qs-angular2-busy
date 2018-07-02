@@ -12,7 +12,6 @@ import { QsAngular2BusyModule, BusyConfig } from 'qs-angular2-busy';
   imports: [
     BrowserModule,
     QsAngular2BusyModule,
-    QsAngular2BusyModule,
     BrowserAnimationsModule
   ],
   providers: [],
