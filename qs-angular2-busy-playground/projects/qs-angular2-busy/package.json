@@ -1,0 +1,22 @@
+{
+  "name": "qs-angular2-busy",
+  "version": "0.0.1",
+  "author": "Matthias Ludwig <mludwig@quobject.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quobject/qs-angular2-busy.git"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "busy",
+    "loading",
+    "angular2-busy",
+    "ng2-busy"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../dist/qs-angular2-busy",
+  "lib": {
+    "entryFile": "src/public_api.ts"
+  }
+}
