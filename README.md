@@ -5,7 +5,7 @@ from https://github.com/devyumao/angular2-busy
 created for Angular 6 using 
 [Library support in Angular CLI 6](https://github.com/angular/angular-cli/wiki/stories-create-library)
 
-[nmp](https://www.npmjs.com/package/qs-angular2-busy)
+[npm](https://www.npmjs.com/package/qs-angular2-busy)
 
 ```bash
 npm i qs-angular2-busy
